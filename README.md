@@ -2,7 +2,7 @@
 
 > Simple asteroid game using C++  
 > Skeleton of this project was made by **M.E. Kajetan Kruczkowski** from **Gdańsk University of Technology**  
-> his project is part of an **educational lab assignment**.
+> This project is part of an **educational lab assignment**.
 
 ---
 
